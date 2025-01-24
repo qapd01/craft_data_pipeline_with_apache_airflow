@@ -2,3 +2,5 @@
 
 # run airflow with docker compose 
 - docker compose up --build
+
+develop
